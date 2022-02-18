@@ -153,6 +153,17 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "James",
+      "species": "Monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "16"
     }
   ]
 }
